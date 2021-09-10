@@ -1,2 +1,2 @@
 # DSA
-Repo to practice DSA.
+Repo to practice Data Structures and Algorithm.
